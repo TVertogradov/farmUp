@@ -1,2 +1,0 @@
-# farmUp
-startup Development 
